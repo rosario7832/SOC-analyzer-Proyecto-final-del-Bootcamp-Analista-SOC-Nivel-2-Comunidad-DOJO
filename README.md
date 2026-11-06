@@ -88,4 +88,4 @@ Herramienta de apoyo al triaje basada en reglas y correlación. No sustituye el 
 
 ## Autor
 
-_Su nombre · Bootcamp Analista SOC Nivel 2_
+_Rosario Cascante · Bootcamp Analista SOC Nivel 2_
