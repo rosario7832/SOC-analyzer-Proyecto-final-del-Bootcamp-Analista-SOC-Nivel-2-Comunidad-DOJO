@@ -1,0 +1,20 @@
+# Datos de clientes y logs: NUNCA subir a un repositorio
+*.xlsx
+*.xls
+*.csv
+*.log
+*.evtx
+
+# Informes generados
+*.pdf
+
+# Claves y entorno
+.env
+*.key
+
+# Sistema y editores
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+node_modules/
