@@ -31,6 +31,8 @@ Consultora de ciberseguridad en Estocolmo, Suecia. El cliente reporta un posible
 
 Cada hallazgo incluye criticidad, nivel de confianza, justificación, técnica MITRE ATT&CK y las filas del archivo que lo sustentan.
 
+<img src="https://i.imgur.com/rbHkdX2.jpeg" height="55%" width="60%"/> 
+
 ## Informes
 
 **Informe técnico:** resumen ejecutivo, hallazgos identificados, explicación técnica de cada hallazgo, evidencias en los logs, criticidad y justificación, posible impacto en la organización, plan de acción (investigar, contener y remediar) y recomendaciones generales. Anexos: calidad de los datos, IoC y mapeo MITRE.
