@@ -3,7 +3,7 @@
 Aplicación web para **investigar un posible incidente de seguridad**: carga el Excel exportado del SIEM, detecta indicadores de compromiso, correlaciona eventos y genera un **informe técnico** y un **informe ejecutivo** en PDF, con apoyo opcional de IA.
 
 > Proyecto del *Bootcamp Analista SOC Nivel 2 · Reto final*.
-
+<img src="https://i.imgur.com/pwEVDxh.jpeg" height="55%" width="60%"/> 
 ## Escenario
 
 Consultora de ciberseguridad en Estocolmo, Suecia. El cliente reporta un posible incidente en su infraestructura y entrega un Excel con logs exportados de su SIEM. La misión: buscar indicadores de compromiso (IoC), correlacionar eventos y establecer si hubo uno o varios incidentes.
